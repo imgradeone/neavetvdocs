@@ -27,7 +27,7 @@ module.exports = {
       lastUpdated: '上次更新于',
       nav: [
         { text: '主页', link: '/' },
-        { text: '网站信息', link: '/info/' },
+        { text: '网站信息', link: '/info/about.html' },
       ],
     }
     

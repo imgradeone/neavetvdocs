@@ -17,7 +17,7 @@ sidebar: true
 
 Neave.tv 是由 Paul Neave 于 2006 年创建的网站，最初使用 Adobe Flash 进行开发与视频播放。2016 年，Neave.tv 正式弃用 Adobe Flash，采用 HTML 5，才有了现在的样子。曾获得 FWA Site Of The Day 奖项。
 
-Neave.tv 的视频基本上来源于 Blip.tv、Google Video 和 YouTube。（其中只有 YouTube 还存活）
+Neave.tv 的视频基本上来源于 Blip.tv、Google Video 和 YouTube。（其中只有 YouTube 在 2020 年存活）
 
 ## 演变
 
@@ -37,4 +37,20 @@ Neave.tv 的视频基本上来源于 Blip.tv、Google Video 和 YouTube。（其
 
 2015 年 8 月 21 日，GitHub 的 [Fortyseven](https://github.com/Fortyseven) 开发了 [ChannelSurf](http://apps.bytestemplar.com/channelsurf/)，这款 HTML 5 版本的 Neave.tv **非官方**版本，其最早期名字为 NeaveTV - HTML5。这个项目包含了 Neave.tv （当时）的所有视频，以及部分额外的 YouTube 视频。其界面与 Neave.tv 类似，也有老显示器的扫描线，也有单击换台的功能。
 
-## 
+## 所以 Neave.tv 的视频到底是什么类型的？
+
+Neave.tv 现存版本的视频，基本上分为以下几类：
+
+- 沙雕，举几个例子：[尖叫鸡版 Peek-A-Boo](https://neave.tv/assets/videos/peek-a-boo.mp4)、[Bells Dubstep](https://neave.tv/assets/videos/bells-dubstep.mp4)
+- 创意视频，如：[Prank Call](https://neave.tv/assets/videos/prank-call.mp4)（其实这个也比较沙雕）
+- 老电影片段：[Carnival](https://neave.tv/assets/videos/carnival.mp4)，出自 1962 年的恐怖电影《灵魂狂欢节》（*Carnival of Souls*）；[Dark Star](https://neave.tv/assets/videos/dark-star.mp4)，出自 1974 年的科幻片《黑星球》（*Dark Star*）
+- 恐怖视频 <Badge text="慎重" type="error" />：Furby（儿 童 鞋 垫）、Sand Man（大哥你这要得啊？？？）、Squirrel Monster（Mopemope 行为）
+- 细思恐极 <Badge text="与上方恐怖视频不太一样，但也很恐怖" type="error" />：Ronald McDonald（后程高能）、Washing Machine（不敢想啊）、Sonar Dog（狗身人面像）、Massive Viral Outbreak（噬菌体摧毁停车场）、Melt（口意）
+- 完全无意义（某种意义上沙雕）：[Goats](https://neave.tv/assets/videos/goats.mp4)（眼瞎了，数个锤子的羊）
+- Meme：[Aerobic](https://neave.tv/assets/videos/aerobic.mp4)
+
+::: tip 提示
+分类仅供参考。因为它沙雕还是恐怖，完全取决于你自己的心态。
+:::
+
+正如 [Topbook](https://topbook.cc/overview?selectedArticle=1611) 等部分博主 / UP 主所说，这个网站的视频确实**很沙雕**，但是里面也有一些**恐怖视频与细思恐极视频**，所以，各位谨慎访问啊。
