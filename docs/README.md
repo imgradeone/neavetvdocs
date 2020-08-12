@@ -6,3 +6,5 @@ actionText: 开始 →
 actionLink: /home
 footer: made by imgradeone | 本网站与 Neave Interactive 无关
 ---
+
+放心，Neave.tv 也有正常视频的。

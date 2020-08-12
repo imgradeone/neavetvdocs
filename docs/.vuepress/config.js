@@ -4,7 +4,8 @@ module.exports = {
     plugins: {
       "vuepress-plugin-auto-sidebar": {
         titleMap: {
-          "info": "网站信息"
+          "info": "网站信息",
+          "list": "视频列表"
         }
       },
     },
@@ -28,6 +29,7 @@ module.exports = {
       nav: [
         { text: '主页', link: '/' },
         { text: '网站信息', link: '/info/about.html' },
+        { text: '视频列表', link: '/list/' },
       ],
     }
     

@@ -28,3 +28,12 @@ title: 对于 B 站 牧草君 视频的见解
 
 > BTW: 手机实际上也可以访问，但是体验肯定没电脑舒服，“换台”从点鼠标变成了点屏幕而已。
 
+## YouTube 上备份的“所有”视频
+
+这里指的是用户 PPAA 专门上传的 Neave.tv 视频播放列表，您可以在[这里](https://www.youtube.com/playlist?list=PLb6qfXDffqNMF-vEquHTCWIL5wRfM-htB)查看，但由于列表**最后一次更新时间为 2017 年**，且部分视频（Peek-A-Boo、Late for meeting 和 Jacob Giraffe）涉及版权问题，可能会被 Content ID 安排，故列表只有 48 个视频。
+
+因此，**严格意义上这个列表不算所有视频**。但是，这个播放列表实际上完整度很高，该有的视频都有。
+
+如果你觉得列表不够，你可以**直接轮播 PPAA 的所有视频**，也就是[这里](https://www.youtube.com/playlist?list=UUcWm5N47jLv82hDV1o4WWQw)，包含累计 61 个视频，其中 2 个是曾被删除的视频。补上 3 个版权受限的视频......不对，怎么是 62 个......（晕）
+
+注意！**PPAA 并不是 Neave.tv 的站长 Paul Neave。**
