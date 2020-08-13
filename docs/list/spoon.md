@@ -19,15 +19,15 @@ autoGroup-1: 视频详情
 
 ## 人工字幕
 
-*一个人拿着大勺子，看着地上小小的碗，里面装着一点饭*
+> *一个人拿着大勺子，看着地上小小的碗，里面装着一点饭*
 
-人：My spoon is too big. My spoon is too big! (*望向观众*) MY SPOON IS TOO BIG!
+人：My spoon is too big. My spoon is too big! (*望向观众*) MY SPOON IS TOO BIG.
 
-*香蕉突然入场*
+> *香蕉突然入场*
 
 香蕉：I am a banana.
 
-*发动机声*
+> *发动机声*
 
 *结束*
 

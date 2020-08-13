@@ -40,8 +40,10 @@ title: 对于 B 站 牧草君 视频的见解
 
 ## 音画质问题
 
-这个问题确实存在，Neave.tv 的视频基本上是 480p 的版本，而部分原版视频可以达到 1080p。推测是为了节省带宽。
+这个问题确实存在，Neave.tv 的视频基本上是 480p 的版本，而部分原版视频可以达到 1080p。推测是为了节省带宽，或者这就是 2006 年建站那会遗传下来的老问题，当然也可能是为了对上“老电视”这种感觉。
 
 实例：
 
 [Skifcha（Neave.tv 版）](https://neave.tv/assets/videos/skifcha.mp4) | [stereo skifcha（YouTube 版）](https://www.youtube.com/watch?v=rT2LzCLhbOE)
+
+可以明显看出，YouTube 版提供 1080p，但 Neave.tv 的则是标清画质。

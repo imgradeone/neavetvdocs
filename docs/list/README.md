@@ -294,11 +294,11 @@ Someone Here
 （FBI 巡查？反正很奇怪，绿色滤镜也很奇怪）
 
 Sonar Dog  
-（你说这是狗笼子，但是为什么它头是人脸一样的东西？）  
-（Neave.tv 唯一一个中文视频，结果只听得懂那么几句）
+（你说这是狗笼子，但是为什么它头是人脸？）（不过这位装扮者也蛮拼的）  
+（Neave.tv 唯一一个中文视频，结果音质爆炸，只听得懂那么几句）
 
 Street Monster  
-（大街上咋有那么大个东西？~~不过毛绒绒的，可以去摸？~~）
+（大街上咋有那么大个东西？~~不过看上去毛绒绒的，可以——~~）
 
 Tinker Tailor  
 （在你知道这是 Tinker Tailor Soldier Sailor Rich Man Poor Man Beggar Man Thief 的宣传短片之前，它真的很恐怖）
