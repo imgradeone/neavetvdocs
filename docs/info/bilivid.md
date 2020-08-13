@@ -37,3 +37,11 @@ title: 对于 B 站 牧草君 视频的见解
 如果你觉得列表不够，你可以**直接轮播 PPAA 的所有视频**，也就是[这里](https://www.youtube.com/playlist?list=UUcWm5N47jLv82hDV1o4WWQw)，包含累计 61 个视频，其中 2 个是曾被删除的视频。补上 3 个版权受限的视频......不对，怎么是 62 个......（晕）
 
 注意！**PPAA 并不是 Neave.tv 的站长 Paul Neave。**
+
+## 音画质问题
+
+这个问题确实存在，Neave.tv 的视频基本上是 480p 的版本，而部分原版视频可以达到 1080p。推测是为了节省带宽。
+
+实例：
+
+[Skifcha（Neave.tv 版）](https://neave.tv/assets/videos/skifcha.mp4) | [stereo skifcha（YouTube 版）](https://www.youtube.com/watch?v=rT2LzCLhbOE)

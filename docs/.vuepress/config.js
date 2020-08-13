@@ -6,7 +6,10 @@ module.exports = {
         titleMap: {
           "info": "网站信息",
           "list": "视频列表"
-        }
+        },
+        collapseList: [
+          "/list/"
+        ]
       },
     },
     lang: 'zh-CN',
@@ -14,7 +17,6 @@ module.exports = {
     head: [
       ['meta', { name: 'theme-color', content: '#ffb500' }],
     ],
-    base: '/neavetvdocs',
     themeConfig: {
       yuu: {
         disableThemeIgnore: true,
