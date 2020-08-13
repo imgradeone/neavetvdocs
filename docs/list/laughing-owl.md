@@ -5,7 +5,7 @@ autoGroup-1: 视频详情
 
 # Laughing Owl
 
-![](./laughing-owl.png)
+![](/laughing-owl.png)
 
 ## 简介
 
@@ -34,3 +34,4 @@ autoGroup-1: 视频详情
 
 收回刚刚那句话吧...
 :::
+

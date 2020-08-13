@@ -1,6 +1,5 @@
 ---
 title: 视频列表
-sidebar: false
 ---
 
 # 视频列表
