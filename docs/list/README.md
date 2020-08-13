@@ -1,5 +1,6 @@
 ---
 title: 视频列表
+sidebarDepth: 2
 ---
 
 # 视频列表

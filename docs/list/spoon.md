@@ -17,6 +17,20 @@ autoGroup-1: 视频详情
 
 [Neave.tv 版](https://neave.tv/assets/videos/spoon.mp4)
 
+## 人工字幕
+
+*一个人拿着大勺子，看着地上小小的碗，里面装着一点饭*
+
+人：My spoon is too big. My spoon is too big! (*望向观众*) MY SPOON IS TOO BIG!
+
+*香蕉突然入场*
+
+香蕉：I am a banana.
+
+*发动机声*
+
+*结束*
+
 ## 观众反应
 
 主要收录观众看到此视频时的反应。

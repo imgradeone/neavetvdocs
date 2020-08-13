@@ -11,7 +11,7 @@ autoGroup-1: 视频详情
 
 作者：VanCityVideo
 
-该视频是由 VanCityVideo 于 2014 年制作的短视频，可在 [YouTube](https://www.youtube.com/watch?v=M5p9JO9JgvU) 观看
+该视频是由 VanCityVideo 于 2014 年制作的短视频，可在 [YouTube](https://www.youtube.com/watch?v=M5p9JO9JgvU) 观看。
 
 ## 观看
 
