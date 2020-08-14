@@ -9,13 +9,15 @@ autoGroup-1: 视频详情
 
 ## 简介
 
-作者：VanCityVideo
+作者：VanCityVideo & Adam Poley
 
-该视频是由 VanCityVideo 于 2014 年制作的短视频，可在 [YouTube](https://www.youtube.com/watch?v=M5p9JO9JgvU) 观看。
+该视频是由 Adam Poley 于 2014 年发布的短视频，最初标题为 *Everytime I visit this owl it gives me this face*，初版并没有死亡笑声。之后 VanCityVideo 把死亡笑声加了进去，并且将修改版的视频发布到 YouTube 上。
 
 ## 观看
 
-[YouTube（原版）](https://www.youtube.com/watch?v=M5p9JO9JgvU)
+[YouTube（原版死亡笑声）](https://www.youtube.com/watch?v=M5p9JO9JgvU)
+
+[YouTube（最初没有死亡笑声的版本）](https://www.youtube.com/watch?v=wMQvCCBbRK4)
 
 [Neave.tv](https://neave.tv/assets/videos/laughing-owl.mp4)
 
